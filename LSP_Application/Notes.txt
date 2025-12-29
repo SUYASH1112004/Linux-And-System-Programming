@@ -1,0 +1,5 @@
+-hardlink &softlink
+-types of stack
+    user kernel contextstack
+-Link deals with hardlink
+-unlink
